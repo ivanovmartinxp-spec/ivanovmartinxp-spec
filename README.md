@@ -2,12 +2,23 @@
 ## Mid QA Engineer at Sirma Group. I test platforms with a focus on quality and client satisfaction.
 
 ## :paperclip: About
-I am a Mid QA Engineer with almost half a decade of experience as a QA, currently working at Sirma Group for clients in the Logistics Verticals, such as Ligentia and DHL. I specialize in creating clear test cases and test documentation, identifying critical defects, and ensuring product quality across the full testing lifecycle. I work closely with developers and product teams to deliver stable, user-focused software. I am continuously improving myself by researching new test processes through automation and best practices that can be integrated in my current day-to-day activities.
+I am a Mid QA Engineer with almost half a decade of experience as a QA, currently working at Sirma Group for clients in the Logistics Verticals, such as Ligentia and DHL. I specialize in creating clear test cases and test documentation, identifying critical 
+defects, and ensuring product quality across the full testing lifecycle. I work closely with developers and product teams to deliver stable, user-focused software. I am continuously improving myself by researching new test processes through automation and best 
+practices that can be integrated into my current day-to-day activities.
 
 ## :briefcase: Work Experience
 ### QA Manual Engineer at “Sirma Group Holding” / Sept 2023 - Present
 #### 1. Landed Cost Engine - main roles and responsibilities:
 
+Built the complete testing foundation for a newly developed Landed Costing Engine, including detailed test plans, test cases, and documentation. Performed extensive functional, regression, end-to-end, API, usability, acceptance, smoke, and sanity testing to 
+ensure accurate cost calculations across complex logistics scenarios. Collaborated closely with the client, business analysts, and a cross-functional Scrum team to clarify requirements, define testable acceptance criteria, and support continuous quality 
+throughout the development lifecycle. Conducted API testing and database validation to verify backend logic and data integrity, supported production stability through pre- and post-release testing, and worked alongside developers to investigate and resolve 
+defects efficiently using a wide range of QA and monitoring tools.
+
+<details>
+<summary>For more details click to expand</summary>
+
+```
 - Created the full testing foundation for the newly developed Landed Costing Engine, including comprehensive test plans, test cases, and test documentation.
 - Performed functional, regression, end-to-end, API, usability, acceptance, smoke, and sanity testing, ensuring accurate cost calculations across complex logistics scenarios.
 - Collaborated directly with the client to clarify requirements and expected system behavior, then translated this information into clear guidance for the development team.
@@ -17,9 +28,21 @@ I am a Mid QA Engineer with almost half a decade of experience as a QA, currentl
 - Contributed significantly to requirement refinement through ongoing communication with the client and BA, helping define clear and testable acceptance criteria.
 - Assisted in investigating potential defects, working closely with backend, frontend, and database developers to identify root causes and ensure prompt resolution.
 - Maintained strong collaboration within a cross-functional Scrum team, participating in ceremonies and ensuring continuous quality throughout the development lifecycle
+```
+
+</details>
 
 #### 2. Rates Management System - main roles and responsibilities:
 
+Created and maintained test cases and documentation for ongoing enhancements to the DHL Rate Management System. Performed comprehensive functional, regression, end-to-end, API, usability, and acceptance testing to ensure accurate rate calculations and system 
+stability across complex logistics workflows. Conducted API testing and database validation to verify backend logic and data integrity, supported reliable releases through pre- and post-deployment testing, and contributed to improving testing processes across QA 
+and UAT environments. Collaborated closely with developers, business analysts, and project managers to clarify requirements, resolve issues efficiently, and ensure high-quality delivery, while also mentoring QA colleagues in API testing and structured test 
+design.
+
+<details>
+<summary>For more details click to expand</summary>
+
+```
 - Designed and updated test cases and test documentation for ongoing feature changes and enhancements to the DHL Rate Management System.
 - Performed functional, regression, end-to-end, API, usability, and acceptance testing, ensuring accurate rate calculations and stable system behavior across multiple logistics workflows.
 - Executed API tests using Postman and validated backend logic through MS SQL, ensuring correct data handling and integration between system components.
@@ -28,17 +51,30 @@ I am a Mid QA Engineer with almost half a decade of experience as a QA, currentl
 - Improved testing processes across both QA and UAT environments by helping establish clearer structure, documentation, and testing workflows.
 - Mentored fellow QA engineers in API testing with Postman and supported them in writing more structured and effective test cases and documentation.
 - Ensured high-quality delivery by working closely with backend, frontend, and database developers, as well as with the BA and PM, to clarify requirements and quickly resolve issues.
+```
+
+</details>
 
 ### QA Manual Tester at “BYV Games” / Aug 2021 - Feb 2022
 #### The Archer 2 - main roles and responsibilities:
 
-- Manual Testing of products, both finished and undergoing development. 
+Performed manual testing of both completed and in-development products, creating test plans to guide thorough evaluation. Identified, documented, and reported defects through detailed bug reports, while collaborating closely with developers and designers to 
+ensure timely resolution. Contributed to improving user experience by providing usability recommendations and reviewing customer feedback to uncover potential issues not identified during testing.
+
+<details>
+<summary>For more details click to expand</summary>
+
+```
+- Manual Testing of products, both finished and undergoing development.
 - Creating Test Plans for any aspect of the product that will be evaluated.
-- Reporting issues and finding solutions for problems that have been encountered. 
-- Cooperation with Developers and Designers for the products that were under development to ensure a bug-free environment. 
-- Writing extensive bug reports. 
-- Provided suggestions on how to improve the user experience. 
+- Reporting issues and finding solutions for problems that have been encountered.
+- Cooperation with Developers and Designers for the products that were under development to ensure a bug-free environment.
+- Writing extensive bug reports.
+- Provided suggestions on how to improve the user experience.
 - Reviewed customer feedback to monitor if there have been issues that have not been encountered.
+```
+
+</details>
 
 ## :school: Education
 ### University of the West of Scotland / Sept 2019 - May 2023
@@ -85,6 +121,8 @@ Here are some ideas to get you started:
 
 ## :mailbox: Contacts
 For further contacts, you can always reach out to me using the following e-mail: ivanov.martin.xp@gmail.com
+
+Personal CV: [Martin Ivanov CV.pdf](https://github.com/user-attachments/files/24382498/Martin.Ivanov.CV.pdf)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
