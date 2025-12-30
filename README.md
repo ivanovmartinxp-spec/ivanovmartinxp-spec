@@ -2,19 +2,49 @@
 ## Mid QA Engineer at Sirma Group. I test platforms with a focus on quality and client satisfaction.
 
 ## :paperclip: About
-I am a Mid QA Engineer with almost half a decade of experience as a QA, currently working at Sirma Group for clients in the Logistics Verticals, such as Ligentia and DHL. I specialize in creating clear test cases and test documentation, identifying critical defects, and ensuring product quality across the full testing lifecycle. I work closely with developers and product teams to deliver stable, user-focused software. I am continuously improving myself with researching new test processes through automation and best practices that can be integrated in my current day-to-day activities.
+I am a Mid QA Engineer with almost half a decade of experience as a QA, currently working at Sirma Group for clients in the Logistics Verticals, such as Ligentia and DHL. I specialize in creating clear test cases and test documentation, identifying critical defects, and ensuring product quality across the full testing lifecycle. I work closely with developers and product teams to deliver stable, user-focused software. I am continuously improving myself by researching new test processes through automation and best practices that can be integrated in my current day-to-day activities.
 
 ## :briefcase: Work Experience
 ### QA Manual Engineer at “Sirma Group Holding” / Sept 2023 - Present
+#### 1. Landed Cost Engine - main roles and responsibilities:
+
+- Created the full testing foundation for the newly developed Landed Costing Engine, including comprehensive test plans, test cases, and test documentation.
+- Performed functional, regression, end-to-end, API, usability, acceptance, smoke, and sanity testing, ensuring accurate cost calculations across complex logistics scenarios.
+- Collaborated directly with the client to clarify requirements and expected system behavior, then translated this information into clear guidance for the development team.
+- Used tools such as Azure DevOps, Datadog, MS SQL, Postman, CargoWise One, Figma, and Miro for test management, monitoring, debugging, data validation, and requirement analysis.
+- Conducted API testing with Postman and database validation with MS SQL, supporting both backend logic verification and accurate data flows.
+- Supported production stability by performing smoke testing on pre-production deployments and sanity checks after production releases.
+- Contributed significantly to requirement refinement through ongoing communication with the client and BA, helping define clear and testable acceptance criteria.
+- Assisted in investigating potential defects, working closely with backend, frontend, and database developers to identify root causes and ensure prompt resolution.
+- Maintained strong collaboration within a cross-functional Scrum team, participating in ceremonies and ensuring continuous quality throughout the development lifecycle
+
+#### 2. Rates Management System - main roles and responsibilities:
+
+- Designed and updated test cases and test documentation for ongoing feature changes and enhancements to the DHL Rate Management System.
+- Performed functional, regression, end-to-end, API, usability, and acceptance testing, ensuring accurate rate calculations and stable system behavior across multiple logistics workflows.
+- Executed API tests using Postman and validated backend logic through MS SQL, ensuring correct data handling and integration between system components.
+- Used Jira, Postman, MS SQL, CargoWise One, and Figma to support requirement analysis, test execution, issue tracking, and cross-team collaboration.
+- Conducted smoke testing on pre-production environments and performed sanity checks on production releases to ensure smooth and reliable deployments.
+- Improved testing processes across both QA and UAT environments by helping establish clearer structure, documentation, and testing workflows.
+- Mentored fellow QA engineers in API testing with Postman and supported them in writing more structured and effective test cases and documentation.
+- Ensured high-quality delivery by working closely with backend, frontend, and database developers, as well as with the BA and PM, to clarify requirements and quickly resolve issues.
 
 ### QA Manual Tester at “BYV Games” / Aug 2021 - Feb 2022
+#### The Archer 2 - main roles and responsibilities:
+
+- Manual Testing of products, both finished and undergoing development. 
+- Creating Test Plans for any aspect of the product that will be evaluated.
+- Reporting issues and finding solutions for problems that have been encountered. 
+- Cooperation with Developers and Designers for the products that were under development to ensure a bug-free environment. 
+- Writing extensive bug reports. 
+- Provided suggestions on how to improve the user experience. 
+- Reviewed customer feedback to monitor if there have been issues that have not been encountered.
 
 ## :school: Education
 ### University of the West of Scotland / Sept 2019 - May 2023
 
-
-## :blue_book: Latest Project
-Note! Hotel Booking Site Automation Testing - the site is a free-to-use Automation Practice website I have not created it.
+## :blue_book: Latest Personal Project
+Note! Hotel Booking Site Automation Testing - the site is a free-to-use Automation Practice website, I have not created it.
 Tests repo for the website - https://github.com/ivanovmartinxp-spec/Automation_test_repo.git
 
 <!--
